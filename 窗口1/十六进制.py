@@ -1,0 +1,10 @@
+a=(0x06)*256
+a1=0x06<<8
+b=0x06
+c1=6<<8
+print(a+b)
+print(a1+b)
+print(a1|b)
+print(a)
+print(b)
+print('c1:',c1)
